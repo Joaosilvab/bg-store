@@ -1,2 +1,2 @@
 # bg-store
- meu site da faculdade 
+ Meu Primeiro Projeto Da Faculdade! 

@@ -10,6 +10,7 @@ body , header , html {
 body {
     background-color: rgb(255, 255, 255);
     margin: 0px;
+    padding: 0px;
     min-width: 300px;
     max-width: 1500px;
 

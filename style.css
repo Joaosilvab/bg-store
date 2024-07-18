@@ -3,13 +3,14 @@
 
     
 
-body , header {
+body , html ,  header {
     margin: 0px;
     padding: 0px;
 }
 body {
     background-color: rgb(255, 255, 255);
-    margin:-20px;
+    margin: 0px;
+   
     
 }
 header {
@@ -45,7 +46,7 @@ main {
     
 }
 div.camisas01 {
-    
+  
     background-color: rgb(255, 255, 255);
     margin-top: 23px;
     width: 320px;
@@ -141,4 +142,28 @@ div.camisas02> .nomeca {
     margin: 10px;
 }
 
+div#fla {
+    margin-right: 0px;
+    margin-left: 15px;
+}
+div#br {
+    margin-right: 0px;
+    margin-left: 15px;
+}
+div#bar {
+    margin-right: 0px;
+    margin-left: 15px;
+}
+div#cor {
+    margin-right: 0px;
+    margin-left: 15px;
+}
+div#fra {
+    margin-right: 0px;
+    margin-left: 15px;
+}
+div#man {
+    margin-right: 0px;
+    margin-left: 15px;
+}  
 

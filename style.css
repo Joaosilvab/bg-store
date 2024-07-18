@@ -63,7 +63,7 @@ div.camisas01 {
     margin-bottom: 3px;
     min-width: 300px;
     max-width: 1500px;
-    margin-left: 70px;
+   margin-left: 60px;
     margin-right: 0px;
     display: inline-block;
 
@@ -99,7 +99,7 @@ div.camisas01> .nomeca {
 
 
 div.camisas02 {
-    margin-left: 70px;
+    margin-left: 60px;
     margin-right: 0px;
     margin-bottom: 25px;
     display: inline-block;

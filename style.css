@@ -10,6 +10,8 @@ body , html ,  header {
 body {
     background-color: rgb(255, 255, 255);
     margin: 0px;
+    min-width: 320px;
+    max-width: 1500px;
    
     
 }
@@ -60,8 +62,8 @@ div.camisas01 {
     margin-bottom: 3px;
     min-width: 320px;
     max-width: 1500px;
-    margin-left: 87px;
-    margin-right: 87px;
+    margin-left: 40px;
+    margin-right: 0px;
     display: inline-block;
 
 }
@@ -96,8 +98,8 @@ div.camisas01> .nomeca {
 
 
 div.camisas02 {
-    margin-left: 87px;
-    margin-right: 87px;
+    margin-left: 40px;
+    margin-right: 0px;
     margin-bottom: 25px;
     display: inline-block;
     background-color: rgb(255, 255, 255);
@@ -141,29 +143,4 @@ div.camisas02> p {
 div.camisas02> .nomeca {
     margin: 10px;
 }
-
-div#fla {
-    margin-right: 0px;
-    margin-left: 15px;
-}
-div#br {
-    margin-right: 0px;
-    margin-left: 15px;
-}
-div#bar {
-    margin-right: 0px;
-    margin-left: 15px;
-}
-div#cor {
-    margin-right: 0px;
-    margin-left: 15px;
-}
-div#fra {
-    margin-right: 0px;
-    margin-left: 15px;
-}
-div#man {
-    margin-right: 0px;
-    margin-left: 15px;
-}  
 

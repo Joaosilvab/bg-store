@@ -44,8 +44,11 @@ main {
     min-width: 300px;
     max-width: 1300px;
     background-color: white;
+    margin-left: 170px;
     
 }
+
+
 div.camisas01 {
   
     margin-top: 60px;
@@ -62,7 +65,7 @@ div.camisas01 {
     margin-bottom: 3px;
     min-width: 300px;
     max-width: 1500px;
-    margin-left: 80px;
+    margin-left: 50px;
     margin-right: 0px;
     display: inline-block;
 
@@ -98,7 +101,7 @@ div.camisas01> .nomeca {
 
 
 div.camisas02 {
-    margin-left: 80px;
+    margin-left: 50px;
     margin-right: 0px;
     margin-bottom: 25px;
     display: inline-block;

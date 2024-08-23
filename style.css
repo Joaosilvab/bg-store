@@ -39,6 +39,7 @@ nav > a {
     font-weight: bolder;
 }
 main {
+    width: 100%;
     margin: auto;
     padding-bottom: 20px;
     min-width: 300px;
